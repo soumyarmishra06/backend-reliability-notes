@@ -12,10 +12,10 @@ These notes are based on real-world work on backend services used in enterprise 
 
 ## Topics
 
-- Simplifying distributed systems
+- Simplifying distributed backend systems
 - Failure modes and blast radius
-- Event-driven architectures
 - Observability and operational signals
-- Platform and backend design trade-offs
+- Operational ownership in long-lived systems
+
 
 The goal is not to present idealized architectures, but to document practical lessons learned while operating systems over time.
